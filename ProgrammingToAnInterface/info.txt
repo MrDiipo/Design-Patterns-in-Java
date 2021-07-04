@@ -1,0 +1,2 @@
+- The essence of programming to an interface is to hide details of concrete objects (monitor and project) by using there abstract superclass or interface.
+- This also makes it easy to modify the details in the concrete objects without affecting the client code.
