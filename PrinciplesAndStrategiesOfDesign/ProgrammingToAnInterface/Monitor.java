@@ -1,4 +1,4 @@
-package ProgrammingToAnInterface;
+package PrinciplesAndStrategiesOfDesign.ProgrammingToAnInterface;
 
 public class Monitor implements displayModule {
     @java.lang.Override

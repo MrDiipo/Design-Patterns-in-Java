@@ -1,4 +1,4 @@
-package ProgrammingToAnInterface;
+package PrinciplesAndStrategiesOfDesign.ProgrammingToAnInterface;
 
 public class Computer {
     displayModule dm;

@@ -1,4 +1,4 @@
-package ProgrammingToAnInterface;
+package PrinciplesAndStrategiesOfDesign.ProgrammingToAnInterface;
 
 public class Projector implements displayModule{
     @Override
