@@ -1,0 +1,3 @@
+An object delegates most of its behaviour to another class.
+
+This is a great option for achieving inheritance.
