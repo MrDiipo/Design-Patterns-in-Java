@@ -1,0 +1,5 @@
+This principle states that every class should have responsibility over a single part of the functionality
+provided by the software.
+- The responsibility should be entirely encapsulated by the class.
+- All its methods should be narrowly aligned with that responsibility
+- A class should have only one job
