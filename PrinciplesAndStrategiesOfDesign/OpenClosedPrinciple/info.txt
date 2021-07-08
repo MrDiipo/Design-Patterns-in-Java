@@ -1,0 +1,5 @@
+This principle is based on the principles below:
+- classes and methods should be Open for extension (new functionality) and closed for modification
+- a class should be easily extendable without modifying the class itself.
+
+This principle reduces tight coupling.

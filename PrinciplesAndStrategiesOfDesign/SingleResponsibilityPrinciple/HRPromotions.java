@@ -1,4 +1,4 @@
-package SingleResponsibilityPrinciple;
+package PrinciplesAndStrategiesOfDesign.SingleResponsibilityPrinciple;
 
 public class HRPromotions {
 
