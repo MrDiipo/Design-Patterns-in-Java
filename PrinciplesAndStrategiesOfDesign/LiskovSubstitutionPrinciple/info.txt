@@ -1,0 +1,5 @@
+This principle defines that objects of a superclass can be replaceable with objects of it subclasses without breaking the application.
+- It requires the object of your subclasses to behave in the same way as the objects of your superclass
+- It requires that methods which use a superclass type must be able to work with the subclass without any issues.
+
+Java supports this principle supports this principle naturally.
