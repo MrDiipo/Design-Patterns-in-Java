@@ -1,0 +1,4 @@
+-The idea behind this principle is that Clients should not be forced to depend upon interfaces that they do not use.
+-This principle was defined by Robert C. Martin.
+-It avoids design drawbacks due to fat interfaces.
+-You design interfaces based on the client's needs.
