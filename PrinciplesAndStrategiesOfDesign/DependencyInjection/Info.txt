@@ -1,0 +1,11 @@
+- A java class has a dependency on another class, if it uses an instance of this class
+    -referred to as class dependency
+    -a class which accesses a logger service has a dependency on this service class
+
+-Java classes should be as independent as possible from other java classes
+    - this increases the possibility of reusing the classes and to be able to test them independently from other classes
+
+-If a java class creates an instance of another class via the new operator, it cannot be used and tested independently from this class.
+    - this is called a hard dependency
+
+-dependency injection solve these "hard" dependencies
