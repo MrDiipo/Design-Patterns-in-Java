@@ -1,0 +1,17 @@
+-Dependency inversion is a principle that states that entities must depend on abstraction and not on concretions.
+    -  The goal is to reduce dependencies on concrete classes.
+
+- Abstractions should not depend upon details
+    -  Details should depend upon abstractions
+
+- High level classes must not depend on the low level classes
+    -  both high-level classes and low-level classes should depend upon abstractions
+    -the lower-level class implementation is accessible to the higher-level class via an abstract interface
+    -actual implementation of lower level class can then cary
+
+-The "inversion" in the name "Dependency Inversion Principle" is there because it inverts the way you typically might
+think about your Object Oriented design.
+    -top-to-bottom dependency has inverted itself, with both high-level and low-level now depending on abstraction.
+
+
+-Dependency inversion is a central principle underlying the use of design patterns
